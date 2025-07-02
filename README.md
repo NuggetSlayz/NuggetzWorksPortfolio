@@ -3,6 +3,9 @@
 A clean, modern, and responsive portfolio site showcasing my work as a freelance web developer. 
 Built to highlight selected projects, technical skills, and a bit about who I am — with smooth animations and a strong focus on user experience
 
+![image](https://github.com/user-attachments/assets/ee99e10d-eb11-495a-83b7-dfd131a16f96)
+
+
 ## 🚀 Live Demo
 [View Live Site](https://nuggetz-works-portfolio.vercel.app/)  
 
